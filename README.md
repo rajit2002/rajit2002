@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajit kumar</h1>
 <h3 align="center">A passionate Software Test Engineer from India, dedicated to ensuring quality and performance in every project.</h3>
 
-<img  align = "right" margin ="30px" alt="tester" width ="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img  align = "right" margin ="30px" border="3px solid red" alt="tester" width ="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently learning **Advanced API automation, mobile automation with Appium, WebDriverIO, and Cypress.**
 
